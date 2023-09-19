@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
- I'm a beginner front-end programmer
+ I'm a front-end developer
 
 
 - :mailbox: contact me: Telegram: <a href="https://t.me/JsWhyNot">click</a> || Discord: Shakro
