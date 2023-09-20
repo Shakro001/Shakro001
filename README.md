@@ -11,7 +11,7 @@
 
 ---
 
-### 🤝 Instagram:
+### <link href='https://unpkg.com/css.gg@2.0.0/icons/css/link.css' rel='stylesheet'> Instagram:
 
 <div id="badges">
     <a href="https://www.instagram.com/dcfimg/" target="_blank">
