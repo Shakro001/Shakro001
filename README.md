@@ -15,7 +15,7 @@
 
 <div id="badges">
     <a href="https://shakro001.github.io/project/project_1/" target="_blank">
-      <img src="https://w7.pngwing.com/pngs/279/877/png-transparent-hyperlink-computer-icons-link-text-logo-number-thumbnail.png" width="40" height="40" alt="link" />
+      <img src="https://www.nicepng.com/png/detail/42-427153_facebook-clipart-website-link-link-logo-circle.png" width="40" height="40" alt="link" />
     </a>
    
      
