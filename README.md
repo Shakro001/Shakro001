@@ -14,8 +14,8 @@
 ### <link href='https://unpkg.com/css.gg@2.0.0/icons/css/link.css' rel='stylesheet'> Instagram:
 
 <div id="badges">
-    <a href="https://www.instagram.com/dcfimg/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="linkedin" />
+    <a href="https://shakro001.github.io/project/project_1/" target="_blank">
+      <img src=https://w7.pngwing.com/pngs/981/939/png-transparent-hyperlink-computer-icons-direct-link-others-miscellaneous-text-logo.png" width="40" height="40" alt="linkedin" />
     </a>
    
      
