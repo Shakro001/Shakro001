@@ -15,8 +15,7 @@
 
 <div id="badges">
     <a href="https://shakro001.github.io/project/project_1/" target="_blank">
-      <img src="![image](https://github.com/Shakro001/Shakro001/assets/132990987/887c116b-29d3-4913-9b21-9d6ef85511c0)
-" width="40" height="40" alt="link" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Chain_link_icon_slanted.png?20170905101301" width="40" height="40" alt="link" />
     </a>
    
      
