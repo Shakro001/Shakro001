@@ -1,13 +1,13 @@
-# Hi! I'm Ivan
+# Hi!
 
 ---
 
-### :man_technologist: About me:
+### About me:
 
  I'm a front-end developer
 
 
-- :mailbox: contact me: Telegram: <a href="https://t.me/JsWhyNot">click</a> || Discord: Shakro
+- contact me: Telegram: <a href="https://t.me/JsWhyNot">click</a> || Discord: Shakro
 
 ---
 
