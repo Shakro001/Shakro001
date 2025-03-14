@@ -4,7 +4,7 @@
 
 ### About me:
 
- I'm a front-end developer
+Front-end developer
 
 
 - contact me: Telegram: <a href="https://t.me/JsWhyNot">click</a> || Discord: Shakro
