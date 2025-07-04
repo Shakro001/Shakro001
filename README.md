@@ -36,6 +36,6 @@ Front-end developer
 ---
 
 
-// ### 💻 Codewars:
+ ### 💻 Codewars:
 
-// ![codewars](https://www.codewars.com/users/Shakro001/badges/large)
+![codewars](https://www.codewars.com/users/Shakro001/badges/large)
