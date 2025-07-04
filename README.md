@@ -7,7 +7,7 @@
 Front-end developer
 
 
-- contact me: Telegram: <a href="https://t.me/JsWhyNot">click</a> || Discord: Shakro
+- contact me: email: <a href='mailto:fokin7550@gmail.com'>fokin7550@gmail.com</a>
 
 ---
 
@@ -36,6 +36,6 @@ Front-end developer
 ---
 
 
-### 💻 Codewars:
+// ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Shakro001/badges/large)
+// ![codewars](https://www.codewars.com/users/Shakro001/badges/large)
